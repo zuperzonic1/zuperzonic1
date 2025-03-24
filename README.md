@@ -20,7 +20,7 @@ Here are a few projects I’ve worked on that helped me grow as a developer:
  
 - CMS flexibility with WordPress + Next.js 🧩  
 - Building better UI/UX with animations and transitions ✨
-- Learning ASP.NET Core and C#
+- Learning ASP.NET Core and C# ⚙️ 
 
 ---
 

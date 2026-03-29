@@ -21,3 +21,4 @@ Outside of work, I enjoy building and contributing to open-source projects. I li
 
 - **Portfolio**: [mfelobes.ca](http://mfelobes.ca)
 - **Email**: [michealfelobes@proton.me](mailto:michealfelobes@proton.me)
+- **Discord**: zuperzonic
